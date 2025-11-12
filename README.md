@@ -1,3 +1,7 @@
+<img width="2520" height="1367" alt="{A2A751EF-F4B6-4B08-8B2F-963F561ACCF1}" src="https://github.com/user-attachments/assets/086b6f39-cc11-4856-8605-9cf6857d64c3" />
+
+
+
 
 ## 🚀 Jenkins CI/CD Pipeline (on AWS EC2)
 
