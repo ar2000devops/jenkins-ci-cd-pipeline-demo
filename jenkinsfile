@@ -2,11 +2,12 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                git 'https://github.com/ar2000devops/jenkins-ci-cd-pipeline-demo.git'
-            }
-        }
+    stage('Checkout') {
+    steps {
+        git branch: 'main', url: 'https://github.com/ar2000devops/jenkins-ci-cd-pipeline-demo.git'
+    }
+}
+
 
         stage('Install Dependencies') {
             steps {
